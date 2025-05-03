@@ -1,0 +1,612 @@
+{
+  "Data Scientist": [
+    {
+      "name": "Aisha Sharma",
+      "title": "Data Scientist with experience in Data Analysis, Machine Learning, SQL working at Netflix",
+      "linkedin": "https://linkedin.com/in/aishasharma297",
+      "summary": "Aisha Sharma is a highly skilled data scientist with deep experience in Data Analysis, Machine Learning, SQL. Currently employed at Netflix, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aarav Das",
+      "title": "Data Scientist with experience in Data Analysis, Python, SQL working at Google",
+      "linkedin": "https://linkedin.com/in/aaravdas533",
+      "summary": "Aarav Das is a highly skilled data scientist with deep experience in Data Analysis, Python, SQL. Currently employed at Google, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Ishaan Gupta",
+      "title": "Data Scientist with experience in Machine Learning, Python, Deep Learning working at Google",
+      "linkedin": "https://linkedin.com/in/ishaangupta490",
+      "summary": "Ishaan Gupta is a highly skilled data scientist with deep experience in Machine Learning, Python, Deep Learning. Currently employed at Google, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Kabir Patel",
+      "title": "Data Scientist with experience in Data Analysis, Python, Deep Learning working at Amazon",
+      "linkedin": "https://linkedin.com/in/kabirpatel357",
+      "summary": "Kabir Patel is a highly skilled data scientist with deep experience in Data Analysis, Python, Deep Learning. Currently employed at Amazon, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Sanya Gupta",
+      "title": "Data Scientist with experience in Deep Learning, Machine Learning, SQL working at Netflix",
+      "linkedin": "https://linkedin.com/in/sanyagupta313",
+      "summary": "Sanya Gupta is a highly skilled data scientist with deep experience in Deep Learning, Machine Learning, SQL. Currently employed at Netflix, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aisha Patel",
+      "title": "Data Scientist with experience in Machine Learning, SQL, Deep Learning working at Microsoft",
+      "linkedin": "https://linkedin.com/in/aishapatel998",
+      "summary": "Aisha Patel is a highly skilled data scientist with deep experience in Machine Learning, SQL, Deep Learning. Currently employed at Microsoft, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Rohan Gupta",
+      "title": "Data Scientist with experience in Python, SQL, Deep Learning working at Meta",
+      "linkedin": "https://linkedin.com/in/rohangupta623",
+      "summary": "Rohan Gupta is a highly skilled data scientist with deep experience in Python, SQL, Deep Learning. Currently employed at Meta, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Ishaan Sharma",
+      "title": "Data Scientist with experience in Python, Machine Learning, SQL working at Netflix",
+      "linkedin": "https://linkedin.com/in/ishaansharma287",
+      "summary": "Ishaan Sharma is a highly skilled data scientist with deep experience in Python, Machine Learning, SQL. Currently employed at Netflix, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Ishaan Sharma",
+      "title": "Data Scientist with experience in Machine Learning, SQL, Python working at Netflix",
+      "linkedin": "https://linkedin.com/in/ishaansharma141",
+      "summary": "Ishaan Sharma is a highly skilled data scientist with deep experience in Machine Learning, SQL, Python. Currently employed at Netflix, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Kabir Gupta",
+      "title": "Data Scientist with experience in Machine Learning, Python, SQL working at Google",
+      "linkedin": "https://linkedin.com/in/kabirgupta702",
+      "summary": "Kabir Gupta is a highly skilled data scientist with deep experience in Machine Learning, Python, SQL. Currently employed at Google, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Rohan Gupta",
+      "title": "Data Scientist with experience in Machine Learning, Data Analysis, SQL working at Meta",
+      "linkedin": "https://linkedin.com/in/rohangupta273",
+      "summary": "Rohan Gupta is a highly skilled data scientist with deep experience in Machine Learning, Data Analysis, SQL. Currently employed at Meta, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Sanya Mehta",
+      "title": "Data Scientist with experience in Data Analysis, SQL, Python working at Meta",
+      "linkedin": "https://linkedin.com/in/sanyamehta956",
+      "summary": "Sanya Mehta is a highly skilled data scientist with deep experience in Data Analysis, SQL, Python. Currently employed at Meta, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Sharma",
+      "title": "Data Scientist with experience in SQL, Machine Learning, Python working at Microsoft",
+      "linkedin": "https://linkedin.com/in/meerasharma985",
+      "summary": "Meera Sharma is a highly skilled data scientist with deep experience in SQL, Machine Learning, Python. Currently employed at Microsoft, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Das",
+      "title": "Data Scientist with experience in Data Analysis, Deep Learning, SQL working at Google",
+      "linkedin": "https://linkedin.com/in/meeradas946",
+      "summary": "Meera Das is a highly skilled data scientist with deep experience in Data Analysis, Deep Learning, SQL. Currently employed at Google, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Sharma",
+      "title": "Data Scientist with experience in Machine Learning, Deep Learning, Data Analysis working at Netflix",
+      "linkedin": "https://linkedin.com/in/meerasharma582",
+      "summary": "Meera Sharma is a highly skilled data scientist with deep experience in Machine Learning, Deep Learning, Data Analysis. Currently employed at Netflix, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Ishaan Khan",
+      "title": "Data Scientist with experience in Data Analysis, Machine Learning, Deep Learning working at Meta",
+      "linkedin": "https://linkedin.com/in/ishaankhan426",
+      "summary": "Ishaan Khan is a highly skilled data scientist with deep experience in Data Analysis, Machine Learning, Deep Learning. Currently employed at Meta, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Rohan Mehta",
+      "title": "Data Scientist with experience in Python, SQL, Machine Learning working at Google",
+      "linkedin": "https://linkedin.com/in/rohanmehta485",
+      "summary": "Rohan Mehta is a highly skilled data scientist with deep experience in Python, SQL, Machine Learning. Currently employed at Google, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Neha Sharma",
+      "title": "Data Scientist with experience in Machine Learning, Data Analysis, SQL working at Netflix",
+      "linkedin": "https://linkedin.com/in/nehasharma750",
+      "summary": "Neha Sharma is a highly skilled data scientist with deep experience in Machine Learning, Data Analysis, SQL. Currently employed at Netflix, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Reddy",
+      "title": "Data Scientist with experience in Deep Learning, Data Analysis, SQL working at Microsoft",
+      "linkedin": "https://linkedin.com/in/meerareddy450",
+      "summary": "Meera Reddy is a highly skilled data scientist with deep experience in Deep Learning, Data Analysis, SQL. Currently employed at Microsoft, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Rohan Sharma",
+      "title": "Data Scientist with experience in SQL, Data Analysis, Python working at Netflix",
+      "linkedin": "https://linkedin.com/in/rohansharma841",
+      "summary": "Rohan Sharma is a highly skilled data scientist with deep experience in SQL, Data Analysis, Python. Currently employed at Netflix, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Sanya Mehta",
+      "title": "Data Scientist with experience in SQL, Python, Deep Learning working at Microsoft",
+      "linkedin": "https://linkedin.com/in/sanyamehta112",
+      "summary": "Sanya Mehta is a highly skilled data scientist with deep experience in SQL, Python, Deep Learning. Currently employed at Microsoft, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Kabir Patel",
+      "title": "Data Scientist with experience in Machine Learning, SQL, Deep Learning working at Microsoft",
+      "linkedin": "https://linkedin.com/in/kabirpatel567",
+      "summary": "Kabir Patel is a highly skilled data scientist with deep experience in Machine Learning, SQL, Deep Learning. Currently employed at Microsoft, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Ishaan Patel",
+      "title": "Data Scientist with experience in Data Analysis, Machine Learning, Python working at Meta",
+      "linkedin": "https://linkedin.com/in/ishaanpatel840",
+      "summary": "Ishaan Patel is a highly skilled data scientist with deep experience in Data Analysis, Machine Learning, Python. Currently employed at Meta, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Sanya Reddy",
+      "title": "Data Scientist with experience in Machine Learning, Deep Learning, Data Analysis working at Netflix",
+      "linkedin": "https://linkedin.com/in/sanyareddy349",
+      "summary": "Sanya Reddy is a highly skilled data scientist with deep experience in Machine Learning, Deep Learning, Data Analysis. Currently employed at Netflix, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Gupta",
+      "title": "Data Scientist with experience in Python, Deep Learning, Machine Learning working at Netflix",
+      "linkedin": "https://linkedin.com/in/meeragupta285",
+      "summary": "Meera Gupta is a highly skilled data scientist with deep experience in Python, Deep Learning, Machine Learning. Currently employed at Netflix, they have worked on several impactful projects and are passionate about innovation in their field."
+    }
+  ],
+  "Frontend Developer": [
+    {
+      "name": "Meera Gupta",
+      "title": "Frontend Developer with experience in JavaScript, Next.js, CSS working at Flipkart",
+      "linkedin": "https://linkedin.com/in/meeragupta373",
+      "summary": "Meera Gupta is a highly skilled frontend developer with deep experience in JavaScript, Next.js, CSS. Currently employed at Flipkart, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aarav Khan",
+      "title": "Frontend Developer with experience in Next.js, JavaScript, React working at Zomato",
+      "linkedin": "https://linkedin.com/in/aaravkhan220",
+      "summary": "Aarav Khan is a highly skilled frontend developer with deep experience in Next.js, JavaScript, React. Currently employed at Zomato, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Rohan Das",
+      "title": "Frontend Developer with experience in CSS, React, HTML working at Flipkart",
+      "linkedin": "https://linkedin.com/in/rohandas582",
+      "summary": "Rohan Das is a highly skilled frontend developer with deep experience in CSS, React, HTML. Currently employed at Flipkart, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Neha Patel",
+      "title": "Frontend Developer with experience in HTML, JavaScript, CSS working at Flipkart",
+      "linkedin": "https://linkedin.com/in/nehapatel888",
+      "summary": "Neha Patel is a highly skilled frontend developer with deep experience in HTML, JavaScript, CSS. Currently employed at Flipkart, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Sharma",
+      "title": "Frontend Developer with experience in Next.js, CSS, React working at Freshworks",
+      "linkedin": "https://linkedin.com/in/meerasharma732",
+      "summary": "Meera Sharma is a highly skilled frontend developer with deep experience in Next.js, CSS, React. Currently employed at Freshworks, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aarav Reddy",
+      "title": "Frontend Developer with experience in HTML, Next.js, React working at Swiggy",
+      "linkedin": "https://linkedin.com/in/aaravreddy474",
+      "summary": "Aarav Reddy is a highly skilled frontend developer with deep experience in HTML, Next.js, React. Currently employed at Swiggy, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Sanya Sharma",
+      "title": "Frontend Developer with experience in React, CSS, JavaScript working at Razorpay",
+      "linkedin": "https://linkedin.com/in/sanyasharma697",
+      "summary": "Sanya Sharma is a highly skilled frontend developer with deep experience in React, CSS, JavaScript. Currently employed at Razorpay, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aisha Sharma",
+      "title": "Frontend Developer with experience in Next.js, React, JavaScript working at Swiggy",
+      "linkedin": "https://linkedin.com/in/aishasharma147",
+      "summary": "Aisha Sharma is a highly skilled frontend developer with deep experience in Next.js, React, JavaScript. Currently employed at Swiggy, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Neha Khan",
+      "title": "Frontend Developer with experience in React, JavaScript, Next.js working at Swiggy",
+      "linkedin": "https://linkedin.com/in/nehakhan654",
+      "summary": "Neha Khan is a highly skilled frontend developer with deep experience in React, JavaScript, Next.js. Currently employed at Swiggy, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Ishaan Gupta",
+      "title": "Frontend Developer with experience in Next.js, HTML, CSS working at Swiggy",
+      "linkedin": "https://linkedin.com/in/ishaangupta285",
+      "summary": "Ishaan Gupta is a highly skilled frontend developer with deep experience in Next.js, HTML, CSS. Currently employed at Swiggy, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Ishaan Das",
+      "title": "Frontend Developer with experience in React, CSS, Next.js working at Freshworks",
+      "linkedin": "https://linkedin.com/in/ishaandas946",
+      "summary": "Ishaan Das is a highly skilled frontend developer with deep experience in React, CSS, Next.js. Currently employed at Freshworks, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aisha Patel",
+      "title": "Frontend Developer with experience in HTML, CSS, Next.js working at Freshworks",
+      "linkedin": "https://linkedin.com/in/aishapatel665",
+      "summary": "Aisha Patel is a highly skilled frontend developer with deep experience in HTML, CSS, Next.js. Currently employed at Freshworks, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Ishaan Gupta",
+      "title": "Frontend Developer with experience in JavaScript, CSS, React working at Zomato",
+      "linkedin": "https://linkedin.com/in/ishaangupta341",
+      "summary": "Ishaan Gupta is a highly skilled frontend developer with deep experience in JavaScript, CSS, React. Currently employed at Zomato, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Sanya Mehta",
+      "title": "Frontend Developer with experience in CSS, React, Next.js working at Swiggy",
+      "linkedin": "https://linkedin.com/in/sanyamehta204",
+      "summary": "Sanya Mehta is a highly skilled frontend developer with deep experience in CSS, React, Next.js. Currently employed at Swiggy, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Ishaan Gupta",
+      "title": "Frontend Developer with experience in CSS, HTML, JavaScript working at Zomato",
+      "linkedin": "https://linkedin.com/in/ishaangupta519",
+      "summary": "Ishaan Gupta is a highly skilled frontend developer with deep experience in CSS, HTML, JavaScript. Currently employed at Zomato, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aisha Sharma",
+      "title": "Frontend Developer with experience in React, JavaScript, CSS working at Flipkart",
+      "linkedin": "https://linkedin.com/in/aishasharma128",
+      "summary": "Aisha Sharma is a highly skilled frontend developer with deep experience in React, JavaScript, CSS. Currently employed at Flipkart, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Sanya Sharma",
+      "title": "Frontend Developer with experience in Next.js, CSS, HTML working at Razorpay",
+      "linkedin": "https://linkedin.com/in/sanyasharma153",
+      "summary": "Sanya Sharma is a highly skilled frontend developer with deep experience in Next.js, CSS, HTML. Currently employed at Razorpay, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Gupta",
+      "title": "Frontend Developer with experience in HTML, JavaScript, Next.js working at Flipkart",
+      "linkedin": "https://linkedin.com/in/meeragupta922",
+      "summary": "Meera Gupta is a highly skilled frontend developer with deep experience in HTML, JavaScript, Next.js. Currently employed at Flipkart, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Ishaan Das",
+      "title": "Frontend Developer with experience in HTML, CSS, Next.js working at Freshworks",
+      "linkedin": "https://linkedin.com/in/ishaandas889",
+      "summary": "Ishaan Das is a highly skilled frontend developer with deep experience in HTML, CSS, Next.js. Currently employed at Freshworks, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Sharma",
+      "title": "Frontend Developer with experience in JavaScript, React, Next.js working at Flipkart",
+      "linkedin": "https://linkedin.com/in/meerasharma189",
+      "summary": "Meera Sharma is a highly skilled frontend developer with deep experience in JavaScript, React, Next.js. Currently employed at Flipkart, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aisha Gupta",
+      "title": "Frontend Developer with experience in HTML, CSS, JavaScript working at Freshworks",
+      "linkedin": "https://linkedin.com/in/aishagupta827",
+      "summary": "Aisha Gupta is a highly skilled frontend developer with deep experience in HTML, CSS, JavaScript. Currently employed at Freshworks, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aisha Mehta",
+      "title": "Frontend Developer with experience in Next.js, CSS, HTML working at Razorpay",
+      "linkedin": "https://linkedin.com/in/aishamehta185",
+      "summary": "Aisha Mehta is a highly skilled frontend developer with deep experience in Next.js, CSS, HTML. Currently employed at Razorpay, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Neha Reddy",
+      "title": "Frontend Developer with experience in CSS, JavaScript, React working at Swiggy",
+      "linkedin": "https://linkedin.com/in/nehareddy962",
+      "summary": "Neha Reddy is a highly skilled frontend developer with deep experience in CSS, JavaScript, React. Currently employed at Swiggy, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Ishaan Khan",
+      "title": "Frontend Developer with experience in React, HTML, CSS working at Flipkart",
+      "linkedin": "https://linkedin.com/in/ishaankhan771",
+      "summary": "Ishaan Khan is a highly skilled frontend developer with deep experience in React, HTML, CSS. Currently employed at Flipkart, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Reddy",
+      "title": "Frontend Developer with experience in CSS, React, HTML working at Razorpay",
+      "linkedin": "https://linkedin.com/in/meerareddy972",
+      "summary": "Meera Reddy is a highly skilled frontend developer with deep experience in CSS, React, HTML. Currently employed at Razorpay, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Gupta",
+      "title": "Frontend Developer with experience in Next.js, HTML, JavaScript working at Swiggy",
+      "linkedin": "https://linkedin.com/in/meeragupta955",
+      "summary": "Meera Gupta is a highly skilled frontend developer with deep experience in Next.js, HTML, JavaScript. Currently employed at Swiggy, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Rohan Reddy",
+      "title": "Frontend Developer with experience in HTML, CSS, JavaScript working at Zomato",
+      "linkedin": "https://linkedin.com/in/rohanreddy112",
+      "summary": "Rohan Reddy is a highly skilled frontend developer with deep experience in HTML, CSS, JavaScript. Currently employed at Zomato, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aarav Patel",
+      "title": "Frontend Developer with experience in React, HTML, JavaScript working at Flipkart",
+      "linkedin": "https://linkedin.com/in/aaravpatel817",
+      "summary": "Aarav Patel is a highly skilled frontend developer with deep experience in React, HTML, JavaScript. Currently employed at Flipkart, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Kabir Reddy",
+      "title": "Frontend Developer with experience in JavaScript, HTML, React working at Freshworks",
+      "linkedin": "https://linkedin.com/in/kabirreddy217",
+      "summary": "Kabir Reddy is a highly skilled frontend developer with deep experience in JavaScript, HTML, React. Currently employed at Freshworks, they have worked on several impactful projects and are passionate about innovation in their field."
+    }
+  ],
+  "Product Manager": [
+    {
+      "name": "Meera Reddy",
+      "title": "Product Manager with experience in Product Strategy, A/B Testing, User Research working at Paytm",
+      "linkedin": "https://linkedin.com/in/meerareddy385",
+      "summary": "Meera Reddy is a highly skilled product manager with deep experience in Product Strategy, A/B Testing, User Research. Currently employed at Paytm, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Sanya Reddy",
+      "title": "Product Manager with experience in A/B Testing, User Research, Roadmapping working at Meesho",
+      "linkedin": "https://linkedin.com/in/sanyareddy709",
+      "summary": "Sanya Reddy is a highly skilled product manager with deep experience in A/B Testing, User Research, Roadmapping. Currently employed at Meesho, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Neha Patel",
+      "title": "Product Manager with experience in User Research, Agile, Roadmapping working at Paytm",
+      "linkedin": "https://linkedin.com/in/nehapatel747",
+      "summary": "Neha Patel is a highly skilled product manager with deep experience in User Research, Agile, Roadmapping. Currently employed at Paytm, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Neha Khan",
+      "title": "Product Manager with experience in Product Strategy, Roadmapping, Agile working at CRED",
+      "linkedin": "https://linkedin.com/in/nehakhan196",
+      "summary": "Neha Khan is a highly skilled product manager with deep experience in Product Strategy, Roadmapping, Agile. Currently employed at CRED, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Sanya Gupta",
+      "title": "Product Manager with experience in Agile, User Research, A/B Testing working at Uber",
+      "linkedin": "https://linkedin.com/in/sanyagupta361",
+      "summary": "Sanya Gupta is a highly skilled product manager with deep experience in Agile, User Research, A/B Testing. Currently employed at Uber, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aisha Patel",
+      "title": "Product Manager with experience in Product Strategy, User Research, Agile working at CRED",
+      "linkedin": "https://linkedin.com/in/aishapatel288",
+      "summary": "Aisha Patel is a highly skilled product manager with deep experience in Product Strategy, User Research, Agile. Currently employed at CRED, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Kabir Das",
+      "title": "Product Manager with experience in Product Strategy, Agile, User Research working at CRED",
+      "linkedin": "https://linkedin.com/in/kabirdas925",
+      "summary": "Kabir Das is a highly skilled product manager with deep experience in Product Strategy, Agile, User Research. Currently employed at CRED, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Sanya Khan",
+      "title": "Product Manager with experience in Agile, User Research, Product Strategy working at Uber",
+      "linkedin": "https://linkedin.com/in/sanyakhan578",
+      "summary": "Sanya Khan is a highly skilled product manager with deep experience in Agile, User Research, Product Strategy. Currently employed at Uber, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Khan",
+      "title": "Product Manager with experience in Product Strategy, A/B Testing, User Research working at Uber",
+      "linkedin": "https://linkedin.com/in/meerakhan506",
+      "summary": "Meera Khan is a highly skilled product manager with deep experience in Product Strategy, A/B Testing, User Research. Currently employed at Uber, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Sanya Mehta",
+      "title": "Product Manager with experience in Agile, Roadmapping, A/B Testing working at Paytm",
+      "linkedin": "https://linkedin.com/in/sanyamehta766",
+      "summary": "Sanya Mehta is a highly skilled product manager with deep experience in Agile, Roadmapping, A/B Testing. Currently employed at Paytm, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Ishaan Das",
+      "title": "Product Manager with experience in A/B Testing, Roadmapping, Product Strategy working at Uber",
+      "linkedin": "https://linkedin.com/in/ishaandas243",
+      "summary": "Ishaan Das is a highly skilled product manager with deep experience in A/B Testing, Roadmapping, Product Strategy. Currently employed at Uber, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Ishaan Das",
+      "title": "Product Manager with experience in Agile, Product Strategy, A/B Testing working at Uber",
+      "linkedin": "https://linkedin.com/in/ishaandas255",
+      "summary": "Ishaan Das is a highly skilled product manager with deep experience in Agile, Product Strategy, A/B Testing. Currently employed at Uber, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aarav Reddy",
+      "title": "Product Manager with experience in Agile, A/B Testing, User Research working at CRED",
+      "linkedin": "https://linkedin.com/in/aaravreddy340",
+      "summary": "Aarav Reddy is a highly skilled product manager with deep experience in Agile, A/B Testing, User Research. Currently employed at CRED, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Rohan Reddy",
+      "title": "Product Manager with experience in Roadmapping, A/B Testing, User Research working at Google",
+      "linkedin": "https://linkedin.com/in/rohanreddy475",
+      "summary": "Rohan Reddy is a highly skilled product manager with deep experience in Roadmapping, A/B Testing, User Research. Currently employed at Google, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aarav Das",
+      "title": "Product Manager with experience in Roadmapping, Product Strategy, User Research working at Meesho",
+      "linkedin": "https://linkedin.com/in/aaravdas780",
+      "summary": "Aarav Das is a highly skilled product manager with deep experience in Roadmapping, Product Strategy, User Research. Currently employed at Meesho, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Sanya Das",
+      "title": "Product Manager with experience in Agile, User Research, A/B Testing working at Meesho",
+      "linkedin": "https://linkedin.com/in/sanyadas736",
+      "summary": "Sanya Das is a highly skilled product manager with deep experience in Agile, User Research, A/B Testing. Currently employed at Meesho, they have worked on several impactful projects and are passionate about innovation in their field."
+    }
+  ],
+  "AI Researcher": [
+    {
+      "name": "Meera Khan",
+      "title": "AI Researcher with experience in PyTorch, NLP, Transformer Models working at TCS Innovation Labs",
+      "linkedin": "https://linkedin.com/in/meerakhan120",
+      "summary": "Meera Khan is a highly skilled ai researcher with deep experience in PyTorch, NLP, Transformer Models. Currently employed at TCS Innovation Labs, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Mehta",
+      "title": "AI Researcher with experience in PyTorch, Transformer Models, Computer Vision working at TCS Innovation Labs",
+      "linkedin": "https://linkedin.com/in/meeramehta597",
+      "summary": "Meera Mehta is a highly skilled ai researcher with deep experience in PyTorch, Transformer Models, Computer Vision. Currently employed at TCS Innovation Labs, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aarav Patel",
+      "title": "AI Researcher with experience in PyTorch, NLP, Research Paper Writing working at TCS Innovation Labs",
+      "linkedin": "https://linkedin.com/in/aaravpatel979",
+      "summary": "Aarav Patel is a highly skilled ai researcher with deep experience in PyTorch, NLP, Research Paper Writing. Currently employed at TCS Innovation Labs, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aarav Patel",
+      "title": "AI Researcher with experience in Computer Vision, Research Paper Writing, NLP working at OpenAI",
+      "linkedin": "https://linkedin.com/in/aaravpatel797",
+      "summary": "Aarav Patel is a highly skilled ai researcher with deep experience in Computer Vision, Research Paper Writing, NLP. Currently employed at OpenAI, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Reddy",
+      "title": "AI Researcher with experience in PyTorch, NLP, Computer Vision working at DeepMind",
+      "linkedin": "https://linkedin.com/in/meerareddy357",
+      "summary": "Meera Reddy is a highly skilled ai researcher with deep experience in PyTorch, NLP, Computer Vision. Currently employed at DeepMind, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aarav Das",
+      "title": "AI Researcher with experience in PyTorch, Transformer Models, NLP working at TCS Innovation Labs",
+      "linkedin": "https://linkedin.com/in/aaravdas691",
+      "summary": "Aarav Das is a highly skilled ai researcher with deep experience in PyTorch, Transformer Models, NLP. Currently employed at TCS Innovation Labs, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aisha Mehta",
+      "title": "AI Researcher with experience in PyTorch, Transformer Models, NLP working at TCS Innovation Labs",
+      "linkedin": "https://linkedin.com/in/aishamehta288",
+      "summary": "Aisha Mehta is a highly skilled ai researcher with deep experience in PyTorch, Transformer Models, NLP. Currently employed at TCS Innovation Labs, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Kabir Das",
+      "title": "AI Researcher with experience in Computer Vision, Transformer Models, Research Paper Writing working at OpenAI",
+      "linkedin": "https://linkedin.com/in/kabirdas178",
+      "summary": "Kabir Das is a highly skilled ai researcher with deep experience in Computer Vision, Transformer Models, Research Paper Writing. Currently employed at OpenAI, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Ishaan Mehta",
+      "title": "AI Researcher with experience in Computer Vision, NLP, PyTorch working at IBM Research",
+      "linkedin": "https://linkedin.com/in/ishaanmehta153",
+      "summary": "Ishaan Mehta is a highly skilled ai researcher with deep experience in Computer Vision, NLP, PyTorch. Currently employed at IBM Research, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Kabir Das",
+      "title": "AI Researcher with experience in Research Paper Writing, NLP, PyTorch working at OpenAI",
+      "linkedin": "https://linkedin.com/in/kabirdas654",
+      "summary": "Kabir Das is a highly skilled ai researcher with deep experience in Research Paper Writing, NLP, PyTorch. Currently employed at OpenAI, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Rohan Khan",
+      "title": "AI Researcher with experience in Computer Vision, Transformer Models, NLP working at DeepMind",
+      "linkedin": "https://linkedin.com/in/rohankhan616",
+      "summary": "Rohan Khan is a highly skilled ai researcher with deep experience in Computer Vision, Transformer Models, NLP. Currently employed at DeepMind, they have worked on several impactful projects and are passionate about innovation in their field."
+    }
+  ],
+  "Backend Developer": [
+    {
+      "name": "Kabir Gupta",
+      "title": "Backend Developer with experience in Node.js, Databases, API Development working at PhonePe",
+      "linkedin": "https://linkedin.com/in/kabirgupta602",
+      "summary": "Kabir Gupta is a highly skilled backend developer with deep experience in Node.js, Databases, API Development. Currently employed at PhonePe, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Das",
+      "title": "Backend Developer with experience in Microservices, Node.js, API Development working at PhonePe",
+      "linkedin": "https://linkedin.com/in/meeradas629",
+      "summary": "Meera Das is a highly skilled backend developer with deep experience in Microservices, Node.js, API Development. Currently employed at PhonePe, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aarav Gupta",
+      "title": "Backend Developer with experience in Microservices, Node.js, Databases working at Byju's",
+      "linkedin": "https://linkedin.com/in/aaravgupta557",
+      "summary": "Aarav Gupta is a highly skilled backend developer with deep experience in Microservices, Node.js, Databases. Currently employed at Byju's, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aarav Das",
+      "title": "Backend Developer with experience in Django, API Development, Databases working at Dream11",
+      "linkedin": "https://linkedin.com/in/aaravdas976",
+      "summary": "Aarav Das is a highly skilled backend developer with deep experience in Django, API Development, Databases. Currently employed at Dream11, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Kabir Khan",
+      "title": "Backend Developer with experience in Django, Microservices, Node.js working at Swiggy",
+      "linkedin": "https://linkedin.com/in/kabirkhan495",
+      "summary": "Kabir Khan is a highly skilled backend developer with deep experience in Django, Microservices, Node.js. Currently employed at Swiggy, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Neha Mehta",
+      "title": "Backend Developer with experience in Databases, API Development, Microservices working at PayPal",
+      "linkedin": "https://linkedin.com/in/nehamehta940",
+      "summary": "Neha Mehta is a highly skilled backend developer with deep experience in Databases, API Development, Microservices. Currently employed at PayPal, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Kabir Sharma",
+      "title": "Backend Developer with experience in Django, Node.js, Microservices working at Dream11",
+      "linkedin": "https://linkedin.com/in/kabirsharma675",
+      "summary": "Kabir Sharma is a highly skilled backend developer with deep experience in Django, Node.js, Microservices. Currently employed at Dream11, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Neha Das",
+      "title": "Backend Developer with experience in API Development, Django, Microservices working at Byju's",
+      "linkedin": "https://linkedin.com/in/nehadas423",
+      "summary": "Neha Das is a highly skilled backend developer with deep experience in API Development, Django, Microservices. Currently employed at Byju's, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Aarav Mehta",
+      "title": "Backend Developer with experience in Databases, API Development, Node.js working at Byju's",
+      "linkedin": "https://linkedin.com/in/aaravmehta162",
+      "summary": "Aarav Mehta is a highly skilled backend developer with deep experience in Databases, API Development, Node.js. Currently employed at Byju's, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Rohan Reddy",
+      "title": "Backend Developer with experience in Node.js, Django, Microservices working at Swiggy",
+      "linkedin": "https://linkedin.com/in/rohanreddy326",
+      "summary": "Rohan Reddy is a highly skilled backend developer with deep experience in Node.js, Django, Microservices. Currently employed at Swiggy, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Sanya Khan",
+      "title": "Backend Developer with experience in Databases, API Development, Node.js working at PayPal",
+      "linkedin": "https://linkedin.com/in/sanyakhan666",
+      "summary": "Sanya Khan is a highly skilled backend developer with deep experience in Databases, API Development, Node.js. Currently employed at PayPal, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Das",
+      "title": "Backend Developer with experience in API Development, Django, Microservices working at Swiggy",
+      "linkedin": "https://linkedin.com/in/meeradas500",
+      "summary": "Meera Das is a highly skilled backend developer with deep experience in API Development, Django, Microservices. Currently employed at Swiggy, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Reddy",
+      "title": "Backend Developer with experience in Microservices, API Development, Django working at PayPal",
+      "linkedin": "https://linkedin.com/in/meerareddy163",
+      "summary": "Meera Reddy is a highly skilled backend developer with deep experience in Microservices, API Development, Django. Currently employed at PayPal, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Kabir Sharma",
+      "title": "Backend Developer with experience in API Development, Django, Databases working at PayPal",
+      "linkedin": "https://linkedin.com/in/kabirsharma660",
+      "summary": "Kabir Sharma is a highly skilled backend developer with deep experience in API Development, Django, Databases. Currently employed at PayPal, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Neha Patel",
+      "title": "Backend Developer with experience in Microservices, Django, API Development working at PayPal",
+      "linkedin": "https://linkedin.com/in/nehapatel534",
+      "summary": "Neha Patel is a highly skilled backend developer with deep experience in Microservices, Django, API Development. Currently employed at PayPal, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Gupta",
+      "title": "Backend Developer with experience in API Development, Node.js, Databases working at PhonePe",
+      "linkedin": "https://linkedin.com/in/meeragupta146",
+      "summary": "Meera Gupta is a highly skilled backend developer with deep experience in API Development, Node.js, Databases. Currently employed at PhonePe, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Sanya Khan",
+      "title": "Backend Developer with experience in Node.js, Django, Databases working at PhonePe",
+      "linkedin": "https://linkedin.com/in/sanyakhan916",
+      "summary": "Sanya Khan is a highly skilled backend developer with deep experience in Node.js, Django, Databases. Currently employed at PhonePe, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Sanya Patel",
+      "title": "Backend Developer with experience in Django, Databases, Node.js working at Swiggy",
+      "linkedin": "https://linkedin.com/in/sanyapatel183",
+      "summary": "Sanya Patel is a highly skilled backend developer with deep experience in Django, Databases, Node.js. Currently employed at Swiggy, they have worked on several impactful projects and are passionate about innovation in their field."
+    },
+    {
+      "name": "Meera Gupta",
+      "title": "Backend Developer with experience in Django, API Development, Node.js working at PhonePe",
+      "linkedin": "https://linkedin.com/in/meeragupta744",
+      "summary": "Meera Gupta is a highly skilled backend developer with deep experience in Django, API Development, Node.js. Currently employed at PhonePe, they have worked on several impactful projects and are passionate about innovation in their field."
+    }
+  ]
+}

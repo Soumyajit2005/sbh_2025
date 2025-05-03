@@ -1,0 +1,10 @@
+fastapi
+aiofiles
+PyPDF2
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community
+google-generativeai
+uvicorn
+faiss-cpu

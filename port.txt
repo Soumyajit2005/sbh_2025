@@ -1,0 +1,6 @@
+chatbot: 8085
+network suggestor: 8080
+career_recommendation: 8000
+ats evaluator: 9000
+registration & login: 5000
+resume_chatter: 3000
