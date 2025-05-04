@@ -26,6 +26,12 @@ const features = [
     image: ecosystemImage, 
   },
   {
+    title: "Mock Interview",
+    description:
+      "Test your technocal skills as well as soft skills",
+    image: personalizationImage, 
+  },
+  {
     title: "Performance Analytics",
     description: "No more last minute stress before interviews.",
     image: interviewSimulatorImage, 
